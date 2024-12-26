@@ -1,5 +1,5 @@
 ---
-title: (Prompt)
+title: Planning
 type: docs
 weight: 4
 ---
