@@ -1,5 +1,5 @@
 ---
-title: (原理)SFT Scaling
+title: (原理)SFT Scaling+
 date: 2023-04-26 16:55:39
 weight: 3
 tags:

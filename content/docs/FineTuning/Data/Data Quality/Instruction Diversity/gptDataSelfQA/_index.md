@@ -1,5 +1,5 @@
 ---
-title: (原理|实战)Self-QA
+title: (原理|实战)Self-QA+
 date: 2023-09-27 12:11:03
 weight: 2
 tags:

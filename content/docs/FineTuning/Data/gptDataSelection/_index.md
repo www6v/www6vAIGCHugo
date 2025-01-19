@@ -12,8 +12,6 @@ categories:
 <p></p>
 <!-- more -->
 
-## 目录
-<!-- toc -->
 
 # IFD[1]
 + 三个步骤
@@ -68,21 +66,21 @@ DEITA评估质量的方法，**与评估复杂性方法一致**。先对一个�
 如果**距离值小于 r时**，认为该样本与筛选池中数据相似程度不高，可以**纳入筛选池**；否则**不纳入筛选池**。当筛选池中样本数达到规定样本个数，完成多样性筛选。
 
 # 参考
-1. [如何从数据集中自动识别高质量的指令数据-IFD指标的使用](https://zhuanlan.zhihu.com/p/658128530)
-   《From Quantity to Quality: Boosting LLM Performance with Self-Guided Data Selection for Instruction Tuning》
-   ChatLaw就这么训的
+1. [如何从数据集中自动识别高质量的指令数据-IFD指标的使用](https://zhuanlan.zhihu.com/p/658128530)  
+   《From Quantity to Quality: Boosting LLM Performance with Self-Guided Data Selection for Instruction Tuning》  
+   ChatLaw就这么训的  
    
-2. [大模型微调技巧 | 高质量指令数据筛选方法-MoDS](https://zhuanlan.zhihu.com/p/671183709)
-   《MoDS: Model-oriented Data Selection for Instruction Tuning》
-    质量筛选， 多样性筛选，必要性筛选   
+2. [高质量指令数据筛选方法-MoDS](https://zhuanlan.zhihu.com/p/671183709)  
+   《MoDS: Model-oriented Data Selection for Instruction Tuning》  
+    质量筛选， 多样性筛选，必要性筛选     
 
-3. [DEITA-大模型指令微调的数据高效筛选方法](https://zhuanlan.zhihu.com/p/675928711)
+3. [DEITA-大模型指令微调的数据高效筛选方法](https://zhuanlan.zhihu.com/p/675928711)  
 
-1xx. [DEITA：融合复杂度、质量、多样性的高效数据筛选](https://zhuanlan.zhihu.com/p/687339776)
-   复杂度、质量、多样性
+1xx. [DEITA：融合复杂度、质量、多样性的高效数据筛选](https://zhuanlan.zhihu.com/p/687339776)  
+   复杂度、质量、多样性  
 
 1xx. [值得一看的大模型预训练数据选择策略总结：兼读20240229大模型进展早报 ](https://mp.weixin.qq.com/s?__biz=MzAxMjc3MjkyMg==&mid=2648409027&idx=1&sn=4083853fd0bfb1790d8df6b4414b6583)
-《A Survey on Data Selection for Language Models》
+《A Survey on Data Selection for Language Models》  
 
 
 
