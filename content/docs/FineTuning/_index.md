@@ -1,7 +1,7 @@
 ---
 title: FineTuning
 type: docs
-weight: 6
+weight: 3
 bookFlatSection: true
 bookCollapseSection: true
 ---
