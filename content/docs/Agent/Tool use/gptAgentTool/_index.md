@@ -50,13 +50,13 @@ categories:
 # 参考
 1. [大模型工具学习权威综述，BMTools 背后的论文！](https://zhuanlan.zhihu.com/p/624459759)
 
-1xx. [清华发布工具学习框架，让ChatGPT操控地图、股票查询，贾维斯已来？](https://blog.csdn.net/xixiaoyaoww/article/details/130278978)
+1xx. [清华发布工具学习框架，让ChatGPT操控地图、股票查询，贾维斯已来？](https://blog.csdn.net/xixiaoyaoww/article/details/130278978)  
 
-1xx. [回顾大模型在工具使用上的技术总结：兼看图检索增强生成方案-GRAG ](https://mp.weixin.qq.com/s/yZYGqAKIqDfGYF2YUckiiw)
-   《Tool Learning with Large Language Models: A Survey》
-   问题2:关于大模型使用工具的调研整理
+1xx. [回顾大模型在工具使用上的技术总结：兼看图检索增强生成方案-GRAG ](https://mp.weixin.qq.com/s/yZYGqAKIqDfGYF2YUckiiw)  
+   《Tool Learning with Large Language Models: A Survey》  
+   问题2:关于大模型使用工具的调研整理  
 
-1xx. [一篇大模型Agent工具使用全面研究综述](https://mp.weixin.qq.com/s/pPkrHHkmVC29e_c2U8YEGg)
+1xx. [一篇大模型Agent工具使用全面研究综述](https://mp.weixin.qq.com/s/pPkrHHkmVC29e_c2U8YEGg)  
     《Tool Learning with Large Language Models: A Survey》
     
 ### xxx
@@ -64,18 +64,18 @@ categories:
 
 11. [THUNLP成员领读EMNLP大模型工具创造新框架“CREATOR”](https://www.bilibili.com/video/BV1EN4y1q7Zn/) V 有思维导图 
 
-12. 《TOOLLLM: FACILITATING LARGE LANGUAGE MODELS TO MASTER 16000+ REAL-WORLD APIS》
+12. 《TOOLLLM: FACILITATING LARGE LANGUAGE MODELS TO MASTER 16000+ REAL-WORLD APIS》  
 [TOOLLLM：让大型语言模型掌握真实世界的API](https://zhuanlan.zhihu.com/p/647899563)
-[ToolBench ](https://github.com/OpenBMB/ToolBench) git
-[论文阅读：ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs](https://blog.csdn.net/Dbox_boom/article/details/134815624)
+[ToolBench ](https://github.com/OpenBMB/ToolBench) git  
+[论文阅读：ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs](https://blog.csdn.net/Dbox_boom/article/details/134815624)  
 
 13. {% post_link 'gptAgentMultimodal' %} self
 
 
 ### Others
-《Augmented Language Models》 
-1xx. [Augmented Language Models（增强语言模型）](https://blog.csdn.net/qq_39388410/article/details/130798125)
-1xx. [增强语言模型（ALM）之综述篇](https://zhuanlan.zhihu.com/p/611492200)
+《Augmented Language Models》   
+1xx. [Augmented Language Models（增强语言模型）](https://blog.csdn.net/qq_39388410/article/details/130798125)  
+1xx. [增强语言模型（ALM）之综述篇](https://zhuanlan.zhihu.com/p/611492200)  
 
 
 
