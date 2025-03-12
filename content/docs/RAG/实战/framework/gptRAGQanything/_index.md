@@ -48,11 +48,11 @@ categories:
 
 # 参考
 ### QAnything
-1. [QAnything Repo](https://github.com/netease-youdao/QAnything) git
-2. xxx
-3. [有道QAnything背后的故事：关于RAG的一点经验分享](https://www.bilibili.com/video/BV1HF4m1w7rY/) V
- [有道QAnything背后的故事---关于RAG的一点经验分享](https://mp.weixin.qq.com/s/FUex1Q984-IhQ-FoLZTf5Q)   文字版
-   [公众号有其他文章]
+1. [QAnything Repo](https://github.com/netease-youdao/QAnything) git  
+2. xxx  
+3. [有道QAnything背后的故事：关于RAG的一点经验分享](https://www.bilibili.com/video/BV1HF4m1w7rY/) V  
+ [有道QAnything背后的故事---关于RAG的一点经验分享](https://mp.weixin.qq.com/s/FUex1Q984-IhQ-FoLZTf5Q)   文字版  
+   [公众号有其他文章]  
    
 
 1xx. [前沿重器[45] RAG开源项目Qanything源码阅读1-概述+服务](https://mp.weixin.qq.com/s?__biz=MzIzMzYwNzY2NQ==&mid=2247489671&idx=1&sn=564a232c3c7919c70a7a1cf5efa77628)
