@@ -13,10 +13,7 @@ categories:
 <!-- more -->
 
 
-# 基于微调的Agent-function call[1][2]
-![dirs](./images/dirs.JPG)
 
-![xtuner-agent](./images/xtuner-agent.png)
 
 # Assistant API [3]
 ### Assistant API功能介绍
@@ -32,11 +29,6 @@ categories:
 # Lagent & AgentLego[4]
 
 # 参考
-
-1. [xtuner 实战](https://github.com/InternLM/tutorial/blob/main/xtuner/README.md) 
-   4【补充】用 MS-Agent 数据集 赋予 LLM 以 Agent 能力
-2. [(4)XTuner 大模型单卡低成本微调实战](https://www.bilibili.com/video/BV1yK4y1B75J/) V
-
 3. [Assistant API详解与Agent开发实战-九天Hector](https://github.com/www6v/AIGC/tree/master/basic/%E4%B9%9D%E5%A4%A9Hector/Assistant%20API%E8%AF%A6%E8%A7%A3%E4%B8%8EAgent%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98)
 
 4. [Lagent & AgentLego 智能体应用搭建](https://github.com/InternLM/Tutorial/tree/camp2/agent)
