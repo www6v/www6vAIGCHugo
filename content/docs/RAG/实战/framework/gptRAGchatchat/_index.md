@@ -1,5 +1,5 @@
 ---
-title: (实战)RAG Langchain-Chatchat
+title: (框架)RAG Langchain-Chatchat
 date: 2023-05-31 11:31:35
 weight: 2
 tags:

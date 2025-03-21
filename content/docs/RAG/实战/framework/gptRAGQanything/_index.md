@@ -1,5 +1,5 @@
 ---
-title: RAG Qanything
+title: (框架) Qanything
 date: 2023-06-19 10:14:53
 weight: 3
 tags:
