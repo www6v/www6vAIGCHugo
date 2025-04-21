@@ -1,7 +1,7 @@
 ---
-title: (原理)Gorilla
+title: (Work)Gorilla
 date: 2023-04-08 07:58:38
-weight: 3
+weight: 10
 tags:
   - agent
 categories:

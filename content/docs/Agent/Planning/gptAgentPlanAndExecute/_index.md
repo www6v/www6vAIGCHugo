@@ -1,5 +1,5 @@
 ---
-title:  (原理|实战)Plan&Execute,ReWOO 
+title:  (Work|实战)Plan&Execute,ReWOO 
 date: 2023-03-02 09:31:47
 tags:
   - Agent

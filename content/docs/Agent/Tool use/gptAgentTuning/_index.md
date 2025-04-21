@@ -1,7 +1,7 @@
 ---
-title: Agent Tuning
+title: (实战)Agent Tuning
 date: 2023-04-07 16:56:18
-weight: 4
+weight: 3
 tags:
   - agent
 categories:
@@ -111,8 +111,8 @@ CUDA_VISIBLE_DEVICES=0 python src/train_bash.py \\
     ![agentTuningUI-result.png](./images/agentTuningUI-result.png)
 
 - 效果展示  
-工具调用 - 查询天气  
-【1个epoch好像有点问题】  
+  工具调用 - 查询天气  
+  【1个epoch好像有点问题】  
     ![agentTuningUI-chat.png](./images/agentTuningUI-chat.png)
 
 ---

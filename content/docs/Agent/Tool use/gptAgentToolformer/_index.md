@@ -1,7 +1,7 @@
 ---
-title: (原理)Toolformer
+title: (Work)Toolformer
 date: 2023-02-03 22:26:11
-weight: 5
+weight: 11
 tags:
   - Tool
 categories:
