@@ -29,11 +29,11 @@ categories:
 # Lagent & AgentLego[4]
 
 # 参考
-3. [Assistant API详解与Agent开发实战-九天Hector](https://github.com/www6v/AIGC/tree/master/basic/%E4%B9%9D%E5%A4%A9Hector/Assistant%20API%E8%AF%A6%E8%A7%A3%E4%B8%8EAgent%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98)
+3. Assistant API详解与Agent开发实战-九天Hector
 
-4. [Lagent & AgentLego 智能体应用搭建](https://github.com/InternLM/Tutorial/tree/camp2/agent)
-   [Lagent：轻量级智能体框架](https://github.com/InternLM/Tutorial/blob/camp2/agent/lagent.md)
-   [AgentLego：组装智能体“乐高”](https://github.com/InternLM/Tutorial/blob/camp2/agent/agentlego.md)
+4. [Lagent & AgentLego 智能体应用搭建](https://github.com/InternLM/Tutorial/tree/camp2/agent)  
+   [Lagent：轻量级智能体框架](https://github.com/InternLM/Tutorial/blob/camp2/agent/lagent.md)  
+   [AgentLego：组装智能体“乐高”](https://github.com/InternLM/Tutorial/blob/camp2/agent/agentlego.md)  
    
 
 1xx. [使用Qwen-Agent将上下文记忆扩展到百万量级](https://qwenlm.github.io/zh/blog/qwen-agent-2405/)
