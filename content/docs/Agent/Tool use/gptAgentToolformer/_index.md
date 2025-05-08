@@ -1,5 +1,5 @@
 ---
-title: (Work)Toolformer
+title: (Work)[SFT]Toolformer
 date: 2023-02-03 22:26:11
 weight: 11
 tags:

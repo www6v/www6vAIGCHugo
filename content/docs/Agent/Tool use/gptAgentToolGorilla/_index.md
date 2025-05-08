@@ -1,5 +1,5 @@
 ---
-title: (Work)Gorilla
+title: (Work)[SFT]Gorilla
 date: 2023-04-08 07:58:38
 weight: 10
 tags:

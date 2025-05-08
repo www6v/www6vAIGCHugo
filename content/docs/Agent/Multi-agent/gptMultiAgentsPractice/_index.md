@@ -24,13 +24,6 @@ categories:
 [Hierarchical Agent Teams](https://github.com/langchain-ai/langgraph/blob/main/examples/multi_agent/hierarchical_agent_teams.ipynb) git
 
 
-
-# Framework
-+ LangGraph
-+ AutoGen
-+ MetaGPT
-+ CrewAI - OpenAI
-
 # 参考
 ### LangGraph
 1. [LangGraph: Multi-Agent Workflows](https://blog.langchain.dev/langgraph-multi-agent-workflows/)

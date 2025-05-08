@@ -1,5 +1,5 @@
 ---
-title: Agent 12-Factor *
+title: Agent 12-Factor +
 date: 2024-04-06 23:18:53
 weight: 10
 tags:

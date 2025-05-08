@@ -1,7 +1,7 @@
 ---
-title: Agent 分类[有趣|有用]
+title: (原理)Agent 分类[有趣|有用]
 date: 2023-04-06 23:18:53
-weight: 2
+weight: 3
 tags:
   - AIGC
 categories: 
