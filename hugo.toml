@@ -1,7 +1,7 @@
 # hugo server --minify --themesDir ../.. --baseURL=http://0.0.0.0:1313/theme/hugo-book/
 
 baseURL = 'https://www6v.github.io/www6vAIGC/'
-title = 'AIGC'
+title = '基于LLM的系统设计与实现'
 theme = 'hugo-book'
 
 # Book configuration
