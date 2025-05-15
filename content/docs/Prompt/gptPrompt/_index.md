@@ -1,5 +1,5 @@
 ---
-title: Prompt-How to use
+title: (原理)[Prompting]How to use
 date: 2021-05-26 22:50:04
 weight: 4
 tags:

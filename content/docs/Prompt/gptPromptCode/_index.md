@@ -1,5 +1,5 @@
 ---
-title: Prompt-Code
+title: (原理)[Prompting]Coding
 date: 2021-05-28 12:12:45
 weight: 3
 tags:
@@ -53,7 +53,7 @@ for x in fruits:
 
 print(newlist)
 ```
-  
+
 + **Translating Code** 代码转换
   - Convert this Python code to Javascript    
   - 请把下面这段python代码转换成Java代码 
@@ -76,9 +76,9 @@ print(newlist)
 
 + **SQL**
   - write a SQL query to generate a table called products with these columns：
-ID（int）
-title（string）
-category(int)
+  ID（int）
+  title（string）
+  category(int)
   - write a query to retrieve the top 5 customers in Shanghai
   - Revise this query and join the customers table with the orders table to find out how much each cumster has spent. Then pick the top 5 who have spent the most.
 

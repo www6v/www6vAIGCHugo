@@ -1,5 +1,5 @@
 ---
-title: COT
+title: (原理)COT
 date: 2023-02-08 11:23:01
 weight: 2
 tags:
