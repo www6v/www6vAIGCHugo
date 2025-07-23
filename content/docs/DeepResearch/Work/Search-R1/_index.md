@@ -16,7 +16,6 @@ categories:
 - [Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning](https://arxiv.org/abs/2503.09516v1)
 - https://github.com/PeterGriffinJin/Search-R1
 
-https://github.com/PeterGriffinJin/Search-R1
 
 # **Methods**
 **详细方法和步骤:**
