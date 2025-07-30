@@ -13,13 +13,18 @@ weight: 10
      https://github.com/eosphoros-ai/Awesome-Text2SQL/ 
 
 
-### Project
-[DB-GPT Repo](https://github.com/eosphoros-ai/DB-GPT) git  
-[开源 Text-to-SQL 工具哪家强？Vanna 让 SQL 小白也能轻松玩转数据分析！](https://mp.weixin.qq.com/s?__biz=Mzg2MjkwNzY4OA==&mid=2247487442&idx=1&sn=7889420553058119506bd677298e69d4)  
-[YC孵化的Text-to-SQL未来之星：Defog开源 SQLCoder模型，打造企业级数据分析利器 ](https://mp.weixin.qq.com/s?__biz=Mzg2MjkwNzY4OA==&mid=2247487419&idx=1&sn=31fb6947c97793bc58b645444a1b587c)  
-[WrenAI：开源Text-to-SQL引擎让 SQL触手可及，数据分析的“GPT”时刻来了？](https://mp.weixin.qq.com/s?__biz=Mzg2MjkwNzY4OA==&mid=2247487328&idx=1&sn=dd20578ab376aaa11fee526d4787ce58)  
-[Dataherald 核心 Text-to-SQL 引擎全面开源！](https://mp.weixin.qq.com/s?__biz=Mzg2MjkwNzY4OA==&mid=2247487260&idx=1&sn=53b5d036c9f2e039d4fc26c8053355b8) 
+
+### Chatbi  
++ [supersonic](https://github.com/tencentmusic/supersonic)   腾讯音乐  *** 
++ [DB-GPT](https://github.com/eosphoros-ai/DB-GPT)  阿里 ***           
++ https://github.com/Canner/WrenAI    
+  [WrenAI：开源Text-to-SQL引擎让 SQL触手可及，数据分析的“GPT”时刻来了？](https://mp.weixin.qq.com/s?__biz=Mzg2MjkwNzY4OA==&mid=2247487328&idx=1&sn=dd20578ab376aaa11fee526d4787ce58)   
++ https://github.com/vanna-ai/vanna   
+  [开源 Text-to-SQL 工具哪家强？Vanna 让 SQL 小白也能轻松玩转数据分析！](https://mp.weixin.qq.com/s?__biz=Mzg2MjkwNzY4OA==&mid=2247487442&idx=1&sn=7889420553058119506bd677298e69d4)     
++ https://github.com/defog-ai/sqlcoder   * 
++ https://github.com/Dataherald/dataherald  * 
++ https://github.com/zwq2018/Data-Copilot  
 
 
-
-
+### 汇总
+https://github.com/eosphoros-ai/Awesome-Text2SQL/
