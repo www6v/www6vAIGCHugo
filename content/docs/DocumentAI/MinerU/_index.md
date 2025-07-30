@@ -21,9 +21,16 @@ weight: 2
 ![minerU.png](./images/minerU.png)
 
 
+# 复杂文档解析 [10]
+![doc-ant.png](./images/doc-ant.png)
+【everything2Markdown】   
+【边界的地方错的多 】   
+【去噪 - 页眉 页脚】   
 
 # 参考
 [深入拆解 MinerU 解析处理流程](https://mp.weixin.qq.com/s/aV43l8VdGuJ_NxQ1qz_GVg)
+
+10. 蚂蚁数科AI Agent 知识工程实践
 
 
 # 其他
