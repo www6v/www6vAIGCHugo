@@ -1,7 +1,8 @@
 ---
-title: 实战
+title: 实战 *
 type: docs
 weight: 2
-bookFlatSection: true
+bookFlatSection: false
+bookCollapseSection: true
 ---
 

@@ -1,7 +1,8 @@
 ---
-title: Multi-agent
+title: Multi-agent *
 type: docs
 weight: 6
-bookFlatSection: true
+bookFlatSection: false
+bookCollapseSection: true
 ---
 

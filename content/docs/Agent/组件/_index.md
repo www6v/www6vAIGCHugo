@@ -1,7 +1,7 @@
 ---
-title: Communication *
+title: 组件 *
 type: docs
-weight: 8
+weight: 1
 bookFlatSection: false
 bookCollapseSection: true
 ---

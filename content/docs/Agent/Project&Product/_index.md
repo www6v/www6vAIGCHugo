@@ -2,6 +2,7 @@
 title: Project&Product
 type: docs
 weight: 2
-bookFlatSection: true
+bookFlatSection: false
+bookCollapseSection: true
 ---
 

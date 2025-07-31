@@ -54,3 +54,5 @@ categories:
 1xx. [【论文解读】Search-R1：强化学习如何教会 LLM 自主搜索？](https://zhuanlan.zhihu.com/p/30784344002)
 
 1xx. 有个学术的会议
+
+1xx. [Search-R1：让 LLM 学会 “边搜边想”，强化学习赋能检索增强推理](https://mp.weixin.qq.com/s/CGkfVYWZlfSRyg_3FDQcvA)
