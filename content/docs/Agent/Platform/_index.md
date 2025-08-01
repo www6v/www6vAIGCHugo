@@ -1,5 +1,5 @@
 ---
-title: Project&Product
+title: Platform *
 type: docs
 weight: 2
 bookFlatSection: false
