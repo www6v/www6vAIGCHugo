@@ -1,16 +1,9 @@
 ---
-title: (原理) 谷歌 Prompting guide 101
+title: (原理) 谷歌 Prompting guide 101 *
 date: 2024-11-10 15:48:39
-weight: 1
-tags:
-  - Prompt
-categories: 
-  - AIGC
-  - prompt  
+weight: 1 
 ---
 
-<p></p>
-<!-- more -->
 
 
 # 四个核心要素
