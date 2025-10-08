@@ -1,5 +1,5 @@
 ---
-title: (实践)Prompting Claude * 
+title: (Anthropic)[Claude]Prompting Engineering  * 
 weight: 1
 # bookFlatSection: false
 # bookCollapseSection: false

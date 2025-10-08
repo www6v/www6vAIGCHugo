@@ -1,5 +1,5 @@
 ---
-title: (原理) 谷歌 Prompting guide 101 *
+title: (原理) [Google]Prompting guide 101 *
 date: 2024-11-10 15:48:39
 weight: 1 
 ---
