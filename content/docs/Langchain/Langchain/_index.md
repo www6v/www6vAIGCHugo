@@ -1,17 +1,7 @@
 ---
 title: Langchain
-date: 2022-11-02 10:45:06
-weight: 1
-tags:
-  - GPT
-categories: 
-  - AIGC
-  - Langchain  
+weight: 1  
 ---
-
-<p></p>
-<!-- more -->
-
 
 # Modules
 ## main modules
