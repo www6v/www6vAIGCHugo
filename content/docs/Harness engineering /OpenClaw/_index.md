@@ -1,5 +1,5 @@
 ---
-title: Claude Code
+title: OpenClaw
 type: docs
 weight: 2
 bookFlatSection: false
