@@ -1,16 +1,7 @@
 ---
 title: Agent Planning
-date: 2023-05-13 06:57:12
-weight: 1
-tags:
-  - AIGC
-categories: 
-  - AIGC
-  - Agent  
+weight: 1  
 ---
-
-<p></p>
-<!-- more -->
 
 
 # Types[1]

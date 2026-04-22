@@ -1,11 +1,7 @@
 ---
-title: Infra 
-weight: 1 
+title: Sandbox
+type: docs
+weight: 5
+bookFlatSection: true
 ---
-
-
-
-
-# Infra
-[Infra](https://shanji.dingtalk.com/app/transcribes/76327569643236363935383933345f3232353934343633395f32)
 
