@@ -1,5 +1,5 @@
 ---
-title: OpenClaw 架构
+title: OpenClaw 架构[A1]
 weight: 1
 ---
 

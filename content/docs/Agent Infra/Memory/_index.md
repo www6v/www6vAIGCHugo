@@ -1,7 +1,7 @@
 ---
 title: Memory
 type: docs
-weight: 5
+weight: 1
 bookFlatSection: true
 ---
 

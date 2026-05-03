@@ -1,16 +1,9 @@
 ---
 title: (原理&实战)Deep Research
-date: 2024-03-26 12:13:50
 weight: 1
-tags:
-  - Deepresearch
-categories:
-  - AIGC  
-  - Deepresearch
 ---
 
-<p></p>
-<!-- more -->
+
 
 
 # Deep Research

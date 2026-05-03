@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "3d8877028d6de9b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba82c224cd191127",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8fca080ad93bcfc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Harness engineering/Claude Code/Claude Code/_index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c6be84f3fab6961b",
+    "type": "split",
+    "children": [
+      {
+        "id": "23582d64d3014f3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0477e5948d68ac6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c5c35634a2c47162",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "48fb2cd21ea6d167",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2149a9b072b40a09",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc42e251ac65d159",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "879d11d92a423b6f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Harness engineering/Claude Code/Claude Code/_index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for _index"
+            }
+          },
+          {
+            "id": "4697d4587b5cd21d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Harness engineering/Claude Code/Claude Code/_index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from _index"
+            }
+          },
+          {
+            "id": "ab170c60e1d2782d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "cef73e8c70a4fa6d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "8e1a5379dcdddd36",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Harness engineering/Claude Code/Claude Code/_index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of _index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "8fca080ad93bcfc6",
+  "lastOpenFiles": [
+    "Deep Research/research/deep-research/_index.md",
+    "Deep Research/research/_index.md",
+    "Deep Research/research/deep-research/deep-research.md",
+    "Deep Research/research/deep-research/deep-research-outline.md",
+    "Deep Research/research/deep-research",
+    "Deep Research/research",
+    "Deep Research/new/deep-research/deep-research-outline.md",
+    "Deep Research/new/other",
+    "Deep Research/new/未命名文件夹",
+    "Deep Research/new/deep-research/deep-research.md",
+    "Deep Research/new/deep-research",
+    "Agent Infra/agent-memory/_index.md",
+    "Agent Infra/agent-memory/_index_副本.md",
+    "Agent Infra/Memory/_index_副本.md",
+    "Harness engineering/OpenClaw/Arch[A1]/_index.md",
+    "Harness engineering/OpenClaw/Arch[A1]",
+    "Harness engineering/OpenClaw/Arch/_index.md",
+    "Harness engineering/OpenClaw/Arch",
+    "Harness engineering/OpenClaw/Memory[A1]/_index.md",
+    "Harness engineering/OpenClaw/Memory[A1]",
+    "Harness engineering/OpenClaw/Memory/_index.md",
+    "Harness engineering/OpenClaw/Memory",
+    "Harness engineering/OpenClaw/state/openclaw-conversation-state-management.md",
+    "Harness engineering/OpenClaw/state",
+    "Harness engineering/OpenClaw/tools/openclaw-tool-invocation-flow.md",
+    "Harness engineering/OpenClaw/security/openclaw-sandbox-security.md",
+    "Harness engineering/OpenClaw/stability/openclaw-long-task-stability.md",
+    "Harness engineering/harness-enginering/_index.md",
+    "Harness engineering/harness-enginering/harness/harness-engineering-deep-dive.md",
+    "Deep Research/new/deep-research.md",
+    "Deep Research/new/deep-research-outline.md",
+    "Deep Research/deep-research.md",
+    "Deep Research/deep-research-outline.md",
+    "Harness engineering/OpenClaw/openclaw-tool-invocation-flow.md",
+    "Harness engineering/OpenClaw/openclaw-sandbox-security.md",
+    "Harness engineering/OpenClaw/openclaw-long-task-stability.md",
+    "Agent Infra/Tool use/FunctionCall/images/functioncall1.png",
+    "Agent Infra/Tool use/AgentTuning/images/xtuner-agent.png",
+    "Agent Infra/Tool use/AgentTuning/images/dirs.JPG",
+    "Agent Infra/Tool use/AgentTuning/images/agentTuningUI-result.png",
+    "Agent Infra/Tool use/AgentTuning/images/agentTuningUI.png",
+    "Agent Infra/Tool use/AgentTuning/images/agentTuningUI-chat.png",
+    "Agent Infra/Reflection/AgentReflection/images/reflexion_tasks.png",
+    "Agent Infra/Reflection/AgentReflection/images/reflexion_rl.png",
+    "Agent Infra/Reflection/AgentReflection/images/impl.png",
+    "Agent Infra/Reflection/AgentReflection/images/hotpotqa.png"
+  ]
+}

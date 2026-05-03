@@ -1,7 +1,7 @@
 ---
-title: Infra *
+title: Harness
 type: docs
-weight: 8
+weight: 2
 bookFlatSection: false
 bookCollapseSection: true
 ---

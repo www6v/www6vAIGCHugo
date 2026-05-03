@@ -1,8 +1,9 @@
 ---
-title: DeepResearch
+title: Agent Infra
 type: docs
-weight: 6
+weight: 2
 bookFlatSection: true
 bookCollapseSection: true
 ---
+
 
