@@ -78,7 +78,7 @@ Claude Code 的 Harness 工程解决的核心问题是：**如何将模型的理
 
 Claude Code 的强大不是来自某个杀手锏功能，而是来自六个核心支柱的协同运作——每一个支柱都在放大其他支柱的效果 [[openedclaude/claude-reviews-claude]]。
 
-```mermaid
+{{<mermaid>}}
 graph TD
     SP["📋 System Prompt<br/>(身份 + 规则 + 42+ 工具描述)"]
     
@@ -103,7 +103,7 @@ graph TD
     User["👤 用户"] --> CLI["CLI / IDE / Web"]
     CLI --> QL
     QL --> User
-```
+{{</mermaid>}}
 
 **一句话数据流**：
 > 用户输入 → CLI (cli.tsx) → QueryEngine.query() → System Prompt 组装 → 流式 API 调用 → 工具提取 → 权限检查 → 工具执行 → 结果注入 → 继续/结束决策 → 下一次迭代或响应
@@ -121,7 +121,7 @@ graph TD
 
 ### 2.3 Core 层组件执行流程
 
-```mermaid
+{{<mermaid>}}
 flowchart TD
     User["👤 用户 Prompt"] --> QE["QueryEngine"]
     QE --> QL["queryLoop (AsyncGenerator)"]
@@ -153,7 +153,7 @@ flowchart TD
     S8 -.->|"Subagent 调用"| SA["Subagent 派生器"]
     SA -->|"独立 queryLoop"| QL
     REC -.->|"降级后重试"| S7
-```
+{{</mermaid>}}
 
 **12 步状态机说明**：
 
@@ -1199,7 +1199,7 @@ export function useAppState<T>(selector: (state: AppState) => T): T {
 
 Claude Code 为输入框内建了完整的 Vim 编辑模式。状态机架构如下 [[openedclaude/claude-reviews-claude, EP14]]：
 
-```mermaid
+{{<mermaid>}}
 stateDiagram-v2
     [*] --> idle
     idle --> count : [1-9]
@@ -1229,7 +1229,7 @@ stateDiagram-v2
     replace --> idle : [char] 执行
     
     indent --> idle : 执行
-```
+{{</mermaid>}}
 
 **转换函数是纯函数**——无副作用，确定性输出：
 
