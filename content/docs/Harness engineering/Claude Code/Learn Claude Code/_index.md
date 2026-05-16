@@ -1,5 +1,5 @@
 ---
-title: Learn Cloud Code 
+title: Learn Cloud Code [A1]
 weight: 100
 ---
 

@@ -1,3 +1,9 @@
+---
+title: Claude Code 架构
+weight: 1
+---
+
+
 # Claude Code 架构深度解析：从 LLM 到自主编程 Agent 的工程实践
 
 > **摘要**：本文以 DDIA（Designing Data-Intensive Applications）风格，对 Claude Code 的整体架构进行系统性解构。涵盖 12 步 Agentic 状态机、5 级上下文压缩流水线、7 层纵深防御安全模型、42+ 工具系统、多 Agent 编排、Fork Ink 终端 UI 引擎等核心子系统。所有结论均以 Claude Code 官方文档、逆向可运行源码（oboard/claude-code-rev）、学术论文（VILA-Lab, arXiv:2604.14228）、递进式教学（shareAI-lab/learn-claude-code）和 17 篇深度解析（openedclaude/claude-reviews-claude）为交叉验证依据。
