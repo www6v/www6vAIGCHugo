@@ -1,7 +1,6 @@
 ---
-title: Hermes Memory
-type: docs
-weight: 1
+title: Hermes Memory[A1]
+weight: 30
 ---
 
 
