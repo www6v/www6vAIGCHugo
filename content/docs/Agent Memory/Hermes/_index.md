@@ -1,7 +1,7 @@
 ---
-title: Claude Code Memory
+title: Hermes
 type: docs
-weight: 2
+weight: 1
 bookFlatSection: false
 bookCollapseSection: true
 ---
