@@ -1,7 +1,6 @@
 ---
-title: (Manus)context engineering
-date: 2022-11-02 09:57:59
-weight: 1 
+title: context engineering[Manus]
+weight: 10
 ---
 
 # 总结[1]
