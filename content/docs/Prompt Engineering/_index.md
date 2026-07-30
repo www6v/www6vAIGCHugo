@@ -1,7 +1,7 @@
 ---
 title: Prompt Engineering
 type: docs
-weight: 4
+weight: 90
 bookFlatSection: true
 bookCollapseSection: true
 ---

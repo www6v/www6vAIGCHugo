@@ -2,6 +2,7 @@
 title: Reflection
 type: docs
 weight: 3
-bookFlatSection: true
+bookFlatSection: false
+bookCollapseSection: true
 ---
 

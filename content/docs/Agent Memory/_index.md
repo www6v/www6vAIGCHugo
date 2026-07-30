@@ -1,7 +1,7 @@
 ---
 title: Agent Memory
 type: docs
-weight: 5
+weight: 10
 bookFlatSection: true
 bookCollapseSection: true
 ---

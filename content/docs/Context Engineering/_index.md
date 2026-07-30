@@ -1,7 +1,7 @@
 ---
 title: Context Engineering
 type: docs
-weight: 5
+weight: 80
 bookFlatSection: true
 bookCollapseSection: true
 ---

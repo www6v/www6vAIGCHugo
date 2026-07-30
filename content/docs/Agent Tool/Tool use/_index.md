@@ -2,6 +2,7 @@
 title: Tool use
 type: docs
 weight: 7
-bookFlatSection: true
+bookFlatSection: false
+bookCollapseSection: true
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: Sandbox
+title: Openclaw
 type: docs
-weight: 5
+weight: 1
 bookFlatSection: false
 bookCollapseSection: true
 ---

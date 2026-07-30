@@ -1,7 +1,7 @@
 ---
 title: Application
 type: docs
-weight: 6
+weight: 100
 bookFlatSection: true
 bookCollapseSection: true
 ---

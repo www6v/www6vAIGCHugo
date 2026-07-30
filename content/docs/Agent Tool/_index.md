@@ -1,7 +1,7 @@
 ---
 title: Agent Tool
 type: docs
-weight: 5
+weight: 30
 bookFlatSection: true
 bookCollapseSection: true
 ---

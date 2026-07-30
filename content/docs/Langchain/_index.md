@@ -1,7 +1,7 @@
 ---
 title: Langchain
 type: docs
-weight: 5
+weight: 100
 bookFlatSection: true
 bookCollapseSection: true
 ---
