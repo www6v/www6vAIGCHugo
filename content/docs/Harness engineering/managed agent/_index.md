@@ -1,7 +1,7 @@
 ---
 title: Managed Agent
 type: docs
-weight: 2
+weight: 60
 bookFlatSection: false
 bookCollapseSection: true
 ---

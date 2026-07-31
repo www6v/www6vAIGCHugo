@@ -1,7 +1,7 @@
 ---
-title: OpenClaw
+title: Coding Agent
 type: docs
-weight: 10
+weight: 50
 bookFlatSection: false
 bookCollapseSection: true
 ---

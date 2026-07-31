@@ -1,7 +1,7 @@
 ---
-title: Hermes
+title: Hermes Agent
 type: docs
-weight: 2
+weight: 20
 bookFlatSection: false
 bookCollapseSection: true
 ---
