@@ -1,5 +1,5 @@
 ---
-title: Tool use
+title: Survey & SFT
 type: docs
 weight: 7
 bookFlatSection: false
