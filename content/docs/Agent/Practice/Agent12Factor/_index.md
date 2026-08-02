@@ -1,16 +1,8 @@
 ---
 title: Agent 12-Factor +
-date: 2024-04-06 23:18:53
-weight: 10
-tags:
-  - AIGC
-categories: 
-  - AIGC
-  - Agent  
+weight: 10  
 ---
 
-<p></p>
-<!-- more -->
 
 
 # Agent 12-Factor

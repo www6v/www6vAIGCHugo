@@ -1,16 +1,7 @@
 ---
 title: (原理)Agent 架构 + 
-date: 2022-11-02 10:55:27
-weight: 1
-tags:
-  - AIGC
-categories: 
-  - AIGC
-  - Agent  
+weight: 1  
 ---
-
-<p></p>
-<!-- more -->
 
 
 # Agent 架构

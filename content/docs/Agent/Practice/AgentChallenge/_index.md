@@ -1,16 +1,8 @@
 ---
 title: (原理)Agent Challenge
-date: 2023-05-13 07:17:37
-weight: 4
-tags:
-  - Agent
-categories: 
-  - AIGC
-  - Agent  
+weight: 4  
 ---
 
-<p></p>
-<!-- more -->
 
 
 
