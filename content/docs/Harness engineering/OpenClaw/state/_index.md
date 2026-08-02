@@ -1,3 +1,8 @@
+---
+weight: 20
+---
+
+
 # OpenClaw 对话状态管理：从 Session 存储到 Context Engine 的源码级拆解
 
 > **基于 OpenClaw v2026.4.21 源码深度分析**
