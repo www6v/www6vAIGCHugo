@@ -1,5 +1,5 @@
 ---
-title: CodeX 上下文
+title: CodeX 上下文 compact
 weight: 10
 ---
 

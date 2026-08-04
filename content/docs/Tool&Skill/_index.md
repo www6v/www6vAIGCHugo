@@ -1,5 +1,5 @@
 ---
-title: Agent Tool
+title: Tool & Skill
 type: docs
 weight: 30
 bookFlatSection: true
