@@ -1,5 +1,5 @@
 ---
-title: Claude /compact
+title: Claude /compact[A1] *
 weight: 10
 ---
 
