@@ -1,7 +1,7 @@
 ---
 title: Prompting caching *
 type: docs
-weight: 8
+weight: 50
 bookFlatSection: false
 bookCollapseSection: true
 ---
