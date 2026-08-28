@@ -1,5 +1,5 @@
 ---
-title: skill
+title: skill *
 type: docs
 weight: 50
 bookFlatSection: false
