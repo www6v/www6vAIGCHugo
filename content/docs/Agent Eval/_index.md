@@ -1,7 +1,7 @@
 ---
-title: Eval *
-weight: 1
-bookFlatSection: false
+title: Agent Eval 
+weight: 30
+bookFlatSection: true
 bookCollapseSection: true
 ---
 
