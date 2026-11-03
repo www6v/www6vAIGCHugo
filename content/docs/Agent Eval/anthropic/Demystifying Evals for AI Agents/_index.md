@@ -9,9 +9,11 @@ weight: 1
 
 
 #  Demystifying evals for AI agents[A1]
-[Demystifying evals for AI agents-1](https://shanji.dingtalk.com/app/transcribes/76327569643432313931333437335f3232353934343633395f32)
+[Demystifying evals for AI agents [1-7]](https://shanji.dingtalk.com/app/transcribes/76327569643531333330393735365f3232353934343633395f32)
 
-[Demystifying evals for AI agents-2](https://shanji.dingtalk.com/app/transcribes/76327569643432313838303930315f3232353934343633395f32)
+
+[Demystifying evals for AI agents-1](https://shanji.dingtalk.com/app/transcribes/76327569643432313931333437335f3232353934343633395f32)  
+[Demystifying evals for AI agents-2](https://shanji.dingtalk.com/app/transcribes/76327569643432313838303930315f3232353934343633395f32)  
 
 
 
