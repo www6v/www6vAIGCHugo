@@ -1,7 +1,7 @@
 ---
-title: 可靠性 *
+title: Compress *
 type: docs
-weight: 90
+weight: 1
 bookFlatSection: false
 bookCollapseSection: true
 ---
